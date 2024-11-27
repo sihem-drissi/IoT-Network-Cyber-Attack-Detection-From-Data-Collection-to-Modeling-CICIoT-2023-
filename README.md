@@ -1,1 +1,1 @@
-# CICIoT-2023-Cyber-Attack-Detection-in-IoT-Networks-through-Preprocessing-and-Modeling
+#IoT Network Cyber Attack Detection: From Data Collection to Modeling (CICIoT 2023)
